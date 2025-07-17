@@ -18,7 +18,6 @@ export const metadata: Metadata = {
     title: "Zargiya's Agentic AI Developer Roadmap",
     description: "Zargiya's personalized 12-week roadmap to become an agentic AI developer",
   },
-  viewport: 'width=device-width, initial-scale=1',
   robots: 'index, follow',
 }
 
